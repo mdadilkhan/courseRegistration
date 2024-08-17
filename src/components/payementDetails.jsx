@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import Header from "./Header";
 import sage from "../assets/sage.svg";
 import visa from "../assets/visa.svg";
-import RazorPay from "./Razorpay";
+import RazorPay from "./RazorPay";
 
 const payementDetails = () => {
   const navigate = useNavigate();
