@@ -5,6 +5,7 @@ import Header from "./Header";
 import sage from "../assets/sage.svg";
 import visa from "../assets/visa.svg";
 import RazorPay from "./Razorpay";
+
 const payementDetails = () => {
   const navigate = useNavigate();
 
